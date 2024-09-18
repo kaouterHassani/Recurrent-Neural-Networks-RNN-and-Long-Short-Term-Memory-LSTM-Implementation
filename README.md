@@ -9,15 +9,15 @@ This repository contains Python implementations of:
 
 ## Table of Contents :
 
-   1-Packages.
-   2-Useful Functions :
-     * SoftMax.
-     * Sigmoid.
-     * initialize_adam.
-     * update_parameters_with_adam.
-   3-Forward Propagation for the Basic Recurrent Neural Network.
-   4-Long Short-Term Memory (LSTM) Network.
-   5-Backpropagation in RNN.
+   * Packages.
+   * Useful Functions :
+      * SoftMax.
+      * Sigmoid.
+      * initialize_adam.
+      * update_parameters_with_adam.
+   * Forward Propagation for the Basic Recurrent Neural Network.
+   * Long Short-Term Memory (LSTM) Network.
+   * Backpropagation in RNN.
 
 
 ## Code : 
